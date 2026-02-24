@@ -1,0 +1,20 @@
+# Core LangChain Framework
+langchain
+langchain-community
+langchain-core
+
+# LLM Provider Integrations
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-nvidia-ai-endpoints
+
+# Data Science & Machine Learning
+numpy
+scikit-learn
+
+# Web Application Framework
+streamlit
+
+# Environment Management
+python-dotenv
