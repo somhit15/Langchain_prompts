@@ -9,6 +9,8 @@ langchain-google-genai
 langchain-groq
 langchain-nvidia-ai-endpoints
 
+langchain-anthropic
+
 # Data Science & Machine Learning
 numpy
 scikit-learn
@@ -18,3 +20,9 @@ streamlit
 
 # Environment Management
 python-dotenv
+
+
+huggingface-hub
+transformers
+
+langchain-huggingface
